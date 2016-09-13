@@ -1,0 +1,23 @@
+body { 
+    text-align: center; 
+    background-color: #111112;
+    color: #fff; 
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+#reset {
+    background-color: #eb5c5c;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+}
+
+.row { width: 100%; }
+
+.player { 
+    width: 30%; 
+    margin-right: 2%;
+    background-color: #988345;
+    margin-bottom: 15px;
+    display: inline-block;
+}
