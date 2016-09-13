@@ -8,6 +8,9 @@ jQuery(document).ready(function($){
     })
     
     $('#reset').click(function(){
-        location.reload();
+        var reset = confirm ("Are you sure?");
+        if (reset == true) {
+            location.reload();
+        }        
     })
 }) 
