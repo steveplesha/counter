@@ -5,11 +5,13 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+h1 { font-size: 2rem; }
 
 #reset {
     background-color: #eb5c5c;
     padding: 10px 20px;
     margin-bottom: 20px;
+    font-size: 1.5rem;
 }
 
 .row { width: 100%; }
@@ -20,4 +22,5 @@ body {
     background-color: #988345;
     margin-bottom: 15px;
     display: inline-block;
+    font-size: 1.5rem;
 }
